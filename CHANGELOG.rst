@@ -2,8 +2,8 @@
 Changelog for package pal_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.0 (2025-10-27)
+------------------
 * changed to roscon_es_25
 * adde rando_actors map
 * Contributors: andreacapodacqua
