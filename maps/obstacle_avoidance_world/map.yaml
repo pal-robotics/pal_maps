@@ -1,4 +1,4 @@
-image: obstacle_avoidance_world.pgm
+image: map.pgm
 mode: trinary
 resolution: 0.05
 origin: [-4.55, -2.77, 0]
