@@ -2,6 +2,12 @@
 Changelog for package pal_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* fix pgm names
+* added maps for new controller server tests worlds
+* Contributors: martinaannicelli
+
 0.1.0 (2025-10-27)
 ------------------
 * changed to roscon_es_25
