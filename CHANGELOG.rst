@@ -2,8 +2,8 @@
 Changelog for package pal_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.0 (2025-11-05)
+------------------
 * fix pgm names
 * added maps for new controller server tests worlds
 * Contributors: martinaannicelli
