@@ -2,8 +2,8 @@
 Changelog for package pal_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.0 (2025-12-01)
+------------------
 * added home map
 * Contributors: martinaannicelli
 
