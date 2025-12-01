@@ -2,6 +2,11 @@
 Changelog for package pal_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* added home map
+* Contributors: martinaannicelli
+
 0.2.0 (2025-11-05)
 ------------------
 * fix pgm names
