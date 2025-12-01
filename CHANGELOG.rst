@@ -2,6 +2,11 @@
 Changelog for package pal_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* updated 7th floor map
+* Contributors: antoniobrandi
+
 0.3.0 (2025-12-01)
 ------------------
 * added home map
