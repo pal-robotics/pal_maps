@@ -2,8 +2,8 @@
 Changelog for package pal_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.4.0 (2025-12-01)
+------------------
 * updated 7th floor map
 * Contributors: antoniobrandi
 
