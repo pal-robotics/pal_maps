@@ -2,8 +2,8 @@
 Changelog for package pal_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.0 (2025-12-17)
+------------------
 * renamed to map
 * maps for corridor world
 * Contributors: andreacapodacqua
