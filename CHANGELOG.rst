@@ -2,6 +2,12 @@
 Changelog for package pal_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* renamed to map
+* maps for corridor world
+* Contributors: andreacapodacqua
+
 0.4.0 (2025-12-01)
 ------------------
 * updated 7th floor map
