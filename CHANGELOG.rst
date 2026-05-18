@@ -2,6 +2,11 @@
 Changelog for package pal_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* adding navigation gym map
+* Contributors: martinaannicelli
+
 0.5.0 (2025-12-17)
 ------------------
 * renamed to map
